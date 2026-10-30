@@ -1,4 +1,4 @@
-# Workshop - MEAN & Serverless
+# Workshop - MEAN & Serverless!
 
 [![bit-community.png](https://i.postimg.cc/4yVhWzYt/bit-community.png)](https://postimg.cc/BPZ66PcQ)
 
